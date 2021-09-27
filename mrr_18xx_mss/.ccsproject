@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="11.0.0"/>
+	<deviceVariant value="Cortex R.AWR1843"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.6.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="mss_mrr_linker.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=mrr_mss.projectspec.mrr_18xx_mss,type=rtsc,products=com.ti.rtsc.SYSBIOS:6.73.1.01;com.ti.MMWAVE_SDK:3.5.0.04;,xdcToolsVersion=3.50.08.24_core,target=ti.targets.arm.elf.R4F,platform=ti.platforms.cortexR:AWR16XX:false:200,endianness=little,output_format=elf,buildProfile=release,configuroOptions=--compileOptions &quot;--enum_type=int &quot; "/>
+	<origin value="C:\ti\mmwave_automotive_toolbox_3_4_0\labs\lab0007_medium_range_radar\src\mrr_mss.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="false"/>
+</projectOptions>
